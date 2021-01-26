@@ -1,2 +1,3 @@
-# pytorch_toy_model
-quick model for testing deployment
+# Pytorch Toy Models
+
+A simple pytorch implementation to use for testing a deployment framework
