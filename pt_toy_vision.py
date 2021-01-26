@@ -1,7 +1,6 @@
 # python 3
 
 import torch
-import torchvision
 import torch.nn as nn
 import torch.nn.functional as F
 
@@ -46,3 +45,4 @@ class Net(nn.Module):
         output = F.log_softmax(x, dim=1)
 
         return output
+
